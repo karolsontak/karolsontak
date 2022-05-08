@@ -1,6 +1,6 @@
-### Hello, sou a Karol Sontak 👋
+### Hello, I'm Karol Sontak ✌🏻
 
-- 🌱 Estudante de Front-End na Laboratoria
+- 🌱 Front-End Development Student at Laboratória Brasil
 - 📫 E-mail: karolsontak@gmail.com
 
 <div style="display: inline_block"><br>
