@@ -1,6 +1,6 @@
 ### Hello, I'm Karol Sontak ✌🏻
 
-- 🌱 Front-End Developer
+- 🌱 Front-end Developer
 - 📫 E-mail: karolsontak@gmail.com
 
 <div style="display: inline_block"><br>
