@@ -1,6 +1,6 @@
 ### Hello, I'm Karol Sontak ✌🏻
 
-- 🌱 Front-end Developer
+- 🌱 Software Enginner
 - 📫 E-mail: karolsontak@gmail.com
 
 <div style="display: inline_block"><br>
@@ -10,6 +10,14 @@
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
+</div>
+
+  ##
+
+<div>
+<a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=karolsontak&theme=onedark&hide_border=true"/>
+    </a>
 </div>
 
   ##
